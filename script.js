@@ -2,7 +2,8 @@ const Web3 = require('web3');
 const Provider = require('@truffle/hdwallet-provider');
 const MyContract = require('./build/contracts/Media.json');
 const address = '0xf94238Faa08B82fe6689d605842Fea383FfcFd1A';
-const privateKey = 'mechanic fantasy economy improve jacket tuna kiss present pet prepare certain segment';
+const privateKey = 'your mnemonic here';
+
 const infuraUrl = ''; 
 
 /***struct MediaData {
